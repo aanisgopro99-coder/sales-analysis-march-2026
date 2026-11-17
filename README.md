@@ -4,9 +4,12 @@ An Excel-based sales analysis case study prepared as part of a Data Science trai
 
 ## Project contents
 
-- `data/raw/`: source sales workbook.
-- `deliverables/`: completed analysis workbook, charts, written PDF report, project-organization document, and presentation.
-- `reports/`: editable report document.
+- `data/raw/sales_march_2026_raw.xlsx` — source sales workbook.
+- `deliverables/sales_analysis_workbook.xlsx` — completed analysis workbook.
+- `deliverables/sales_analysis_summary.pdf` — results summary.
+- `deliverables/sales_analysis_report.pdf` and `reports/sales_analysis_report.docx` — final report in PDF and editable formats.
+- `deliverables/sales_analysis_presentation.pptx` — presentation of the findings.
+- `deliverables/` — supporting charts and project-organization document.
 
 ## Analysis scope
 
